@@ -1,2 +1,5 @@
 # tts_sop
-# SCRIPT FOR TRAINING VITS MODEL WITH GOOGLE COLAB USING COQUI TTS FRAMEWORK
+# TODO:
+- push new training script
+- push model and config
+- create instructions for training, running model
