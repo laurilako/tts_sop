@@ -7,7 +7,7 @@ https://tts.readthedocs.io/en/latest/inference.html
 
 https://www.dropbox.com/s/ttasmcqn6f2pkgm/model_105k.zip?dl=0
 
-## Audio samples below.
+## Audio samples:
 
 Ulkona on hyvä sää. Siellä paistaa aurinko ja on lämmin. [15k steps trained]
 
