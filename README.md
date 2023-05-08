@@ -1,5 +1,3 @@
-# README
-
 ## TTS Model usage
 Please refer to Coqui TTS for instructions.
 
