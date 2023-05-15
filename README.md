@@ -7,6 +7,10 @@ https://tts.readthedocs.io/en/latest/inference.html
 
 https://www.dropbox.com/s/ttasmcqn6f2pkgm/model_105k.zip?dl=0
 
+Change init_discriminator to "false" from config.json in order to use the model.
+![image](https://github.com/laurilako/tts_sop/assets/71126961/cbad69cb-d994-466e-89ef-f7f4b84801f7)
+
+
 ## Audio samples:
 
 Ulkona on hyvä sää. Siellä paistaa aurinko ja on lämmin. [15k steps trained]
