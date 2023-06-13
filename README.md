@@ -7,7 +7,7 @@ https://tts.readthedocs.io/en/latest/inference.html
 
 https://www.dropbox.com/s/aqiby2ogi271zka/model151k.zip?dl=0
 
-Change init_discriminator to "false" from config.json in order to use the model.
+Change init_discriminator to "false" from config.json in order to use the model, since extracted model has only generative network.
 ![image](https://github.com/laurilako/tts_sop/assets/71126961/cbad69cb-d994-466e-89ef-f7f4b84801f7)
 
 
